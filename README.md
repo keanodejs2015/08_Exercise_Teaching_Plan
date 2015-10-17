@@ -1,4 +1,4 @@
-#7 Exercise: Teaching Plan
+#\#7 Exercise: Teaching Plan
 
 In this exercise you will create your own simplified version of this electives teaching plan, based on the data retrieved from the websites api.
 
