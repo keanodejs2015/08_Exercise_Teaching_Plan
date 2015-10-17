@@ -9,7 +9,7 @@ Your job is to create a list like this
 
 ![Teaching Plan](https://raw.githubusercontent.com/keanodejs/08_Exercise_Teaching_Plan/master/img/Screen%20Shot%202015-10-17%20at%2018.47.40.png)
 
-The list here is created from the posts that belongs to the curriculum category. The titles is linked to the description on the actual website (eg. #1 Introduction -> http://nodejs.clbo.dk/introduction/), The table can be done by putting <pre> <table> </pre> in as the first thing in the string
+The list here is created from the posts that belongs to the curriculum category. The titles is linked to the description on the actual website (eg. #1 Introduction -> http://nodejs.clbo.dk/introduction/), The table can be done by putting <pre> \<table\> </pre> in as the first thing in the string
 
 To obtain only posts from the Curriculum Category, you can either have a look at the api documentation here, and specially the part of retrieving posts http://wp-api.org/#posts_retrieve-posts.
 
