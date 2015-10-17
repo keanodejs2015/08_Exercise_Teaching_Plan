@@ -7,7 +7,7 @@ http://nodejs.clbo.dk/wp-json
 
 Your job is to create a list like this
 
-![Teaching Plan](https://raw.githubusercontent.com/keanodejs/08_Exercise_Teaching_Plan/master/img/Screen%20Shot%202015-10-17%20at%2018.47.40.png)
+![Teaching Plan](https://raw.githubusercontent.com/keanodejs/08_Exercise_Teaching_Plan/master/img/Screen%20Shot%202015-10-18%20at%2000.30.27.png)
 
 The list here is created from the posts that belongs to the curriculum category. The titles is linked to the description on the actual website (eg. #1 Introduction -> http://nodejs.clbo.dk/introduction/), The table can be done by putting '\<table\>' in as the first thing in the string
 
