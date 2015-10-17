@@ -2,8 +2,7 @@
 
 In this exercise you will create your own simplified version of this electives teaching plan, based on the data retrieved from the websites api.
 
-![Node.js Backend Development Api](https://raw.githubusercontent.com/keanodejs/08_Exercise_Teaching_Plan/master/img/Screen%20Shot%202015-10-17%20at%2018.46.53.png)
-http://nodejs.clbo.dk/wp-json
+![Node.js Backend Development Api](https://raw.githubusercontent.com/keanodejs/08_Exercise_Teaching_Plan/master/img/Screen%20Shot%202015-10-17%20at%2018.46.53.png)(http://nodejs.clbo.dk/wp-json)
 
 Your job is to create a list like this
 
